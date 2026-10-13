@@ -1,4 +1,4 @@
-2 6 7 9#include <iostream>
+#include <iostream>
 #include <string>
 #include <vector>
 #include <sstream>
